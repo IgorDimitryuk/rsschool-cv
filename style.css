@@ -1,1 +1,8 @@
-body {font-family: 'Roboto', sans-serif;}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.nav-list {
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
