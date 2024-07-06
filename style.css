@@ -5,4 +5,13 @@ body {
 display: flex;
 justify-content: flex-end;
 align-items: center;
+list-style: none;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    transition: 0.3s;
+}
+.header {
+    background-color: rgb(184, 52, 0);
 }
